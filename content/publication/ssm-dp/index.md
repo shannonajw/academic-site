@@ -4,7 +4,7 @@ date = 2016-03-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shannon Ang", "Rahul Malhotra"]
+authors = ["**Shannon Ang**", "Rahul Malhotra"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Social Science and Medicine*"
-publication_short = "In *SSM*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "**Rationale:** Personal mastery has been shown to be a mediator of the relationship between perceived social support and depressive symptoms. Less is known about its role in the context of received social support. While there is some evidence that received social support may improve one's sense of personal mastery, other studies highlight that received social support may induce dependence and lower one's sense of personal mastery. In addition, less is known about structural factors such as gender that may alter this relationship. **Objective:** To examine gender differences in how personal mastery mediates the relationship between received social support and depressive symptoms. **Methods:** Using data from a nationally representative study of community dwelling older adults in Singapore, we test the hypothesis that personal mastery is an inconsistent mediator of the received social support-depressive symptoms association using mediation analysis and that gender is associated with this inconsistent mediation. **Results:** We find support for our hypothesis of personal mastery as an inconsistent mediator, and observe both the direct and indirect effects of received social support on depressive symptoms to be stronger in females than in males. **Conclusion:** Depressive symptoms for females may be more sensitive to received social support than males, which may be due to gendered pathways and expectations of support. This study highlights the need to further examine both the beneficial and detrimental effects of received social support on psychological health in tandem, considering the effect of mediating variables such as personal mastery to understand its nuanced pathways."
