@@ -12,7 +12,7 @@ subtitle = "Please see CV for a full list"
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # List format.
 #   0 = Simple
