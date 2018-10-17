@@ -23,7 +23,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "B.Soc.Sci in Sociology"
+  course = "B.Soc.Sci. (Hons) in Sociology"
   institution = "National University of Singapore"
   year = 2015
  
