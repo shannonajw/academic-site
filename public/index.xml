@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Life course social connectedness: Age-cohort trends in social participation</title>
+      <link>/publication/alcr-spagecohort/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/alcr-spagecohort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social participation and mortality among older adults in Singapore: Does ethnicity explain gender differences?</title>
       <link>/publication/jgss-sp-mortality/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
@@ -349,15 +358,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Association of received social support with depressive symptoms among older males and females in Singapore: Is personal mastery an inconsistent mediator?</title>
-      <link>/publication/ssm-dp/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/ssm-dp/</guid>
-      <description></description>
     </item>
     
   </channel>
