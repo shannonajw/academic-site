@@ -1,6 +1,6 @@
 +++
 title = "How social participation benefits the chronically ill: Self-management as a mediating pathway"
-date = 2018-03-12T00:00:00
+date = 2019-07-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
