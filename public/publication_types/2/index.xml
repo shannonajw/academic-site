@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Shannon Ang 2018</copyright>
-    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Going online to stay connected: Online social participation buffers the relationship between pain and depression</title>
+      <link>/publication/jgss-sp-online/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/jgss-sp-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How social participation benefits the chronically ill: Self-management as a mediating pathway</title>
       <link>/publication/jah-sp-sma/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/jah-sp-sma/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Intersectional cohort change: Disparities in mobility limitations among older Singaporeans</title>
       <link>/publication/ssm-mobilitysg/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>/publication/ssm-mobilitysg/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Life course social connectedness: Age-cohort trends in social participation</title>
       <link>/publication/alcr-spagecohort/</link>
-      <pubDate>Tue, 12 Feb 2019 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/publication/alcr-spagecohort/</guid>
       <description></description>
@@ -42,25 +51,16 @@
     <item>
       <title>Social participation and mortality among older adults in Singapore: Does ethnicity explain gender differences?</title>
       <link>/publication/jgss-sp-mortality/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/jgss-sp-mortality/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Going online to stay connected: Online social participation buffers the relationship between pain and depression</title>
-      <link>/publication/jgss-sp-online/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/jgss-sp-online/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Family Reciprocity of Older Singaporeans</title>
       <link>/publication/eja-reciprocity/</link>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/eja-reciprocity/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Social participation and health over the adult life course: Does the association strengthen with age?</title>
       <link>/publication/ssm-sp-lifecourse/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/ssm-sp-lifecourse/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Expressive social support buffers the impact of care-related work interruptions on caregivers’ depressive symptoms</title>
       <link>/publication/amh-ess/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/amh-ess/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Normative values of hand grip strength for elderly Singaporeans aged 60 to 89 years: A cross-sectional study</title>
       <link>/publication/jamda-hg/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
       
       <guid>/publication/jamda-hg/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Social Support for Older Adults – A Bane or a Boon for their Health?</title>
       <link>/publication/annals-sing-ss/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
       
       <guid>/publication/annals-sing-ss/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>Association of received social support with depressive symptoms among older males and females in Singapore: Is personal mastery an inconsistent mediator?</title>
       <link>/publication/ssm-dp/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
       <guid>/publication/ssm-dp/</guid>
       <description></description>
