@@ -18,6 +18,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "PhD in Sociology"
+  institution = "University of Michigan"
+  year = 2020
+
+[[education.courses]]
+  course = "MA in Statistics"
+  institution = "University of Michigan"
+  year = 2020
+
+[[education.courses]]
   course = "MA in Sociology"
   institution = "University of Michigan"
   year = 2018
