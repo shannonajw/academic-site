@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Michigan
   url: ""
-role: Doctoral Candidate
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
